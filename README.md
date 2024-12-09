@@ -1,2 +1,2 @@
 # SQL-Portfolio
-A repository with projects I made in SQL
+A repository with projects I made in Postgres SQL
